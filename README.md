@@ -1,5 +1,5 @@
-Gentrack Maze Solution Overview
-------------------------------
+Gentrack Mazes
+===
 
 Problem Statement
 ---
@@ -19,7 +19,7 @@ should be written to the following specification:
 
 
 Maze file format
-================
+---
 
 The input is a maze description file in plain text.  
  1 - denotes walls
@@ -91,8 +91,8 @@ Application Output
 
 Example output ran by this application are provided below. 
 
-Example 1 
----
+*Example 1*
+
 
 ```
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
@@ -143,8 +143,8 @@ Solves to...
 #######################
 ```
 
-Example 2
----
+*Example 2*
+
 
 ```
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
